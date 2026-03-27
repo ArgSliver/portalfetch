@@ -23,7 +23,7 @@ See: https://github.com/fastfetch-cli/fastfetch on how to install it on your sys
 Clone the repository and run the install script:
 
 ```bash
-git clone [https://github.com/linuxgen/portalfetch.git](https://github.com/linuxgen/portalfetch.git)
+git clone https://github.com/linuxgen/portalfetch.git
 cd portalfetch
 chmod +x install.sh
 ./install.sh
